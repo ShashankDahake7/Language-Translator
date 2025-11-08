@@ -461,12 +461,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ---
 
-## License
-
-This project is open source and available under the MIT License (or as specified in the repository).
-
----
-
 ## Contact
 
 For questions, issues, or suggestions, please open an issue on the GitHub repository.
